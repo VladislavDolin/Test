@@ -1,0 +1,6 @@
+c:\users\даниил\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Test.dll
+c:\users\даниил\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\даниил\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+c:\users\даниил\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+c:\users\даниил\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.dll
+c:\users\даниил\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.pdb
